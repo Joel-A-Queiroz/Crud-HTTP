@@ -14,6 +14,11 @@
       "conteudo": "Duplicatas resolvidas",
       "autoria": "Dev JQ",
       "id": "yCx7KSJunfU"
+    },
+    {
+      "conteudo": "Tudo funcionando com metodo Axios!",
+      "autoria": "DEV JQ",
+      "id": "PdDHokCM_PM"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
